@@ -5,6 +5,7 @@ from third_parties.deepgram import deepgram_transcribe
 import json
 import sys
 
+
 def main():
     print("starting application...")
 
@@ -15,14 +16,14 @@ def main():
         print("No arguments were provided.")
 
     summary_template = """
-    given the {information} about a conversation, I want you to tell me the main points of the conversation
+    given the {transcript} about a conversation, I want you to tell me the main points of the conversation
     1. a short summary
     2. 1 key point that was the most important part of the conversation
     3. how many speakers were in the conversation
     """
 
     summary_prompt_template = PromptTemplate(
-        input_variables=["information"], template=summary_template
+        input_variables=["transcript"], template=summary_template
     )
 
     llm = ChatOpenAI(model_name="gpt-3.5-turbo", temperature=0)
@@ -31,8 +32,8 @@ def main():
 
     transription = deepgram_transcribe(audio_file_url)
 
-    print("CALL SUMMARY")
-    print(chain.run(information=transription))
+    print("CALL SUMMARY\n" + chain.run(transcript=transription))
+
 
 if __name__ == "__main__":
     main()
