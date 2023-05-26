@@ -1,11 +1,10 @@
-# demo-summarize-it
+# [demo] SummarizeIT!
 
 ## Requirements:
 
 - Python 3.10.x+ https://docs.python.org/3/whatsnew/3.11.html
 - Open AI API access https://openai.com/blog/openai-api
 - Deepgram API access (As of this writing Deepgram https://deepgram.com is offering some credits to get you started for free)
-  
 
 ## Setup
 
