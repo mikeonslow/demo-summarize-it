@@ -1,0 +1,2066 @@
+{
+  "metadata": {
+    "transaction_key": "deprecated",
+    "request_id": "a1b87496-5d51-432c-92c9-b61d41698bb9",
+    "sha256": "3fef559d7a6a23215a5c08019f3404aac54504c09341c6ee8babb9fc5283934c",
+    "created": "2023-05-26T02:51:11.441Z",
+    "duration": 120.81699,
+    "channels": 1,
+    "models": ["3312b52b-d08e-4072-bfff-124c410b770d"],
+    "model_info": {
+      "3312b52b-d08e-4072-bfff-124c410b770d": {
+        "name": "general-nova",
+        "version": "2023-03-13.31000",
+        "arch": "nova"
+      }
+    }
+  },
+  "results": {
+    "channels": [
+      {
+        "alternatives": [
+          {
+            "transcript": "and thank you for calling premier phone service this call may be recorded for quality and training purposes my name is beth and i'll be assisting you how are you today i'm pretty good thanks how are you i'm doing well thank you may i have your name sure my name's tom idle can you spell that last name for me yeah yeah i d l e okay l e at the end i was picturing it idle like american idle i d o l yeah that that happens a lot it's not really a common name okay mister eidle how can i help you today yeah i need some information on upgrading my service plan sure i can absolutely help you with that today can you tell me what plan you have currently i think it's a silver and let me get my glasses so i can read this yeah yeah it's the silver plan okay alright silver plan and how many people do you have on your plan right now three i've got my brother billy my mom cat and i guess i count two so yeah that's three great and how can i help you with your plan today sir oh you can call me tom there's no need for the sir i'm sorry tom it's just an old habit how can i help you with your plan well on my plan right now i can only have three people on it and i'm wanting to add more so i'm wondering if i can switch my plan up or upgrade it somehow how many more people are you wanting to add to your plan well here's the thing i need to add three more people so far i wanted to add my friend margaret my daughter anna and my son todd alright we do have a few options that support six users one is our gold the other is our platinum plan okay so how much are those gonna cost me well the gold plan is",
+            "confidence": 0.999332,
+            "words": [
+              {
+                "word": "and",
+                "start": 0.0,
+                "end": 0.24,
+                "confidence": 0.54434806
+              },
+              {
+                "word": "thank",
+                "start": 0.24,
+                "end": 0.48,
+                "confidence": 0.9971802
+              },
+              {
+                "word": "you",
+                "start": 0.48,
+                "end": 0.64,
+                "confidence": 0.99966264
+              },
+              {
+                "word": "for",
+                "start": 0.64,
+                "end": 0.88,
+                "confidence": 0.9996656
+              },
+              {
+                "word": "calling",
+                "start": 0.88,
+                "end": 1.12,
+                "confidence": 0.9999704
+              },
+              {
+                "word": "premier",
+                "start": 1.12,
+                "end": 1.4399999,
+                "confidence": 0.71216947
+              },
+              {
+                "word": "phone",
+                "start": 1.4399999,
+                "end": 1.68,
+                "confidence": 0.7493214
+              },
+              {
+                "word": "service",
+                "start": 1.68,
+                "end": 2.1599998,
+                "confidence": 0.85431284
+              },
+              {
+                "word": "this",
+                "start": 2.1599998,
+                "end": 2.32,
+                "confidence": 0.999832
+              },
+              {
+                "word": "call",
+                "start": 2.32,
+                "end": 2.56,
+                "confidence": 0.99993545
+              },
+              {
+                "word": "may",
+                "start": 2.56,
+                "end": 2.72,
+                "confidence": 0.9975999
+              },
+              {
+                "word": "be",
+                "start": 2.72,
+                "end": 2.8799999,
+                "confidence": 0.9996077
+              },
+              {
+                "word": "recorded",
+                "start": 2.8799999,
+                "end": 3.28,
+                "confidence": 0.99998146
+              },
+              {
+                "word": "for",
+                "start": 3.28,
+                "end": 3.4399998,
+                "confidence": 0.99993056
+              },
+              {
+                "word": "quality",
+                "start": 3.4399998,
+                "end": 3.84,
+                "confidence": 0.9999693
+              },
+              {
+                "word": "and",
+                "start": 3.84,
+                "end": 3.9199998,
+                "confidence": 0.9988748
+              },
+              {
+                "word": "training",
+                "start": 3.9199998,
+                "end": 4.24,
+                "confidence": 0.99999774
+              },
+              {
+                "word": "purposes",
+                "start": 4.24,
+                "end": 4.74,
+                "confidence": 0.99932146
+              },
+              {
+                "word": "my",
+                "start": 4.88,
+                "end": 5.04,
+                "confidence": 0.99993294
+              },
+              {
+                "word": "name",
+                "start": 5.04,
+                "end": 5.2,
+                "confidence": 0.9999913
+              },
+              {
+                "word": "is",
+                "start": 5.2,
+                "end": 5.3599997,
+                "confidence": 0.999723
+              },
+              {
+                "word": "beth",
+                "start": 5.3599997,
+                "end": 5.6,
+                "confidence": 0.9342952
+              },
+              {
+                "word": "and",
+                "start": 5.6,
+                "end": 5.7599998,
+                "confidence": 0.9998932
+              },
+              {
+                "word": "i'll",
+                "start": 5.7599998,
+                "end": 5.92,
+                "confidence": 0.9987118
+              },
+              {
+                "word": "be",
+                "start": 5.92,
+                "end": 6.0,
+                "confidence": 0.9999727
+              },
+              {
+                "word": "assisting",
+                "start": 6.0,
+                "end": 6.48,
+                "confidence": 0.9999626
+              },
+              {
+                "word": "you",
+                "start": 6.48,
+                "end": 6.72,
+                "confidence": 0.9955371
+              },
+              {
+                "word": "how",
+                "start": 6.72,
+                "end": 6.8799996,
+                "confidence": 0.99985415
+              },
+              {
+                "word": "are",
+                "start": 6.8799996,
+                "end": 7.04,
+                "confidence": 0.9998544
+              },
+              {
+                "word": "you",
+                "start": 7.04,
+                "end": 7.2,
+                "confidence": 0.99991006
+              },
+              {
+                "word": "today",
+                "start": 7.2,
+                "end": 7.7,
+                "confidence": 0.9997877
+              },
+              {
+                "word": "i'm",
+                "start": 8.544999,
+                "end": 8.705,
+                "confidence": 0.93138015
+              },
+              {
+                "word": "pretty",
+                "start": 8.705,
+                "end": 9.025,
+                "confidence": 0.9994948
+              },
+              {
+                "word": "good",
+                "start": 9.025,
+                "end": 9.264999,
+                "confidence": 0.99466866
+              },
+              {
+                "word": "thanks",
+                "start": 9.264999,
+                "end": 9.745,
+                "confidence": 0.9965018
+              },
+              {
+                "word": "how",
+                "start": 9.745,
+                "end": 9.985,
+                "confidence": 0.9826189
+              },
+              {
+                "word": "are",
+                "start": 9.985,
+                "end": 10.1449995,
+                "confidence": 0.9998104
+              },
+              {
+                "word": "you",
+                "start": 10.1449995,
+                "end": 10.6449995,
+                "confidence": 0.9999502
+              },
+              {
+                "word": "i'm",
+                "start": 11.344999,
+                "end": 11.504999,
+                "confidence": 0.9999299
+              },
+              {
+                "word": "doing",
+                "start": 11.504999,
+                "end": 11.744999,
+                "confidence": 0.99971837
+              },
+              {
+                "word": "well",
+                "start": 11.744999,
+                "end": 12.065,
+                "confidence": 0.99917483
+              },
+              {
+                "word": "thank",
+                "start": 12.065,
+                "end": 12.224999,
+                "confidence": 0.99989533
+              },
+              {
+                "word": "you",
+                "start": 12.224999,
+                "end": 12.625,
+                "confidence": 0.99992996
+              },
+              {
+                "word": "may",
+                "start": 12.625,
+                "end": 12.785,
+                "confidence": 0.99979347
+              },
+              {
+                "word": "i",
+                "start": 12.785,
+                "end": 13.025,
+                "confidence": 0.9998166
+              },
+              {
+                "word": "have",
+                "start": 13.025,
+                "end": 13.184999,
+                "confidence": 0.99997973
+              },
+              {
+                "word": "your",
+                "start": 13.184999,
+                "end": 13.424999,
+                "confidence": 0.9999104
+              },
+              {
+                "word": "name",
+                "start": 13.424999,
+                "end": 13.924999,
+                "confidence": 0.99964297
+              },
+              {
+                "word": "sure",
+                "start": 14.545,
+                "end": 15.045,
+                "confidence": 0.8889514
+              },
+              {
+                "word": "my",
+                "start": 15.264999,
+                "end": 15.424999,
+                "confidence": 0.99969393
+              },
+              {
+                "word": "name's",
+                "start": 15.424999,
+                "end": 15.924999,
+                "confidence": 0.8640698
+              },
+              {
+                "word": "tom",
+                "start": 16.145,
+                "end": 16.465,
+                "confidence": 0.99015194
+              },
+              {
+                "word": "idle",
+                "start": 16.465,
+                "end": 16.965,
+                "confidence": 0.59062994
+              },
+              {
+                "word": "can",
+                "start": 17.689999,
+                "end": 17.929998,
+                "confidence": 0.60008585
+              },
+              {
+                "word": "you",
+                "start": 17.929998,
+                "end": 18.089998,
+                "confidence": 0.9999852
+              },
+              {
+                "word": "spell",
+                "start": 18.089998,
+                "end": 18.329998,
+                "confidence": 0.99990875
+              },
+              {
+                "word": "that",
+                "start": 18.329998,
+                "end": 18.489998,
+                "confidence": 0.9996064
+              },
+              {
+                "word": "last",
+                "start": 18.489998,
+                "end": 18.81,
+                "confidence": 0.9999413
+              },
+              {
+                "word": "name",
+                "start": 18.81,
+                "end": 18.97,
+                "confidence": 0.9994886
+              },
+              {
+                "word": "for",
+                "start": 18.97,
+                "end": 19.21,
+                "confidence": 0.9999659
+              },
+              {
+                "word": "me",
+                "start": 19.21,
+                "end": 19.71,
+                "confidence": 0.99977386
+              },
+              {
+                "word": "yeah",
+                "start": 19.929998,
+                "end": 20.249998,
+                "confidence": 0.9734924
+              },
+              {
+                "word": "yeah",
+                "start": 20.249998,
+                "end": 20.749998,
+                "confidence": 0.9832769
+              },
+              {
+                "word": "i",
+                "start": 20.89,
+                "end": 21.05,
+                "confidence": 0.9767363
+              },
+              {
+                "word": "d",
+                "start": 21.05,
+                "end": 21.289999,
+                "confidence": 0.99701107
+              },
+              {
+                "word": "l",
+                "start": 21.289999,
+                "end": 21.609999,
+                "confidence": 0.9921814
+              },
+              {
+                "word": "e",
+                "start": 21.609999,
+                "end": 22.109999,
+                "confidence": 0.99873954
+              },
+              {
+                "word": "okay",
+                "start": 23.13,
+                "end": 23.529999,
+                "confidence": 0.9707066
+              },
+              {
+                "word": "l",
+                "start": 23.529999,
+                "end": 23.769999,
+                "confidence": 0.99324185
+              },
+              {
+                "word": "e",
+                "start": 23.769999,
+                "end": 23.929998,
+                "confidence": 0.99008566
+              },
+              {
+                "word": "at",
+                "start": 23.929998,
+                "end": 24.009998,
+                "confidence": 0.9722291
+              },
+              {
+                "word": "the",
+                "start": 24.009998,
+                "end": 24.169998,
+                "confidence": 0.9993886
+              },
+              {
+                "word": "end",
+                "start": 24.169998,
+                "end": 24.669998,
+                "confidence": 0.99255306
+              },
+              {
+                "word": "i",
+                "start": 24.845,
+                "end": 25.005,
+                "confidence": 0.79579467
+              },
+              {
+                "word": "was",
+                "start": 25.005,
+                "end": 25.244999,
+                "confidence": 0.99986243
+              },
+              {
+                "word": "picturing",
+                "start": 25.244999,
+                "end": 25.744999,
+                "confidence": 0.99763423
+              },
+              {
+                "word": "it",
+                "start": 25.805,
+                "end": 25.965,
+                "confidence": 0.97489727
+              },
+              {
+                "word": "idle",
+                "start": 25.965,
+                "end": 26.465,
+                "confidence": 0.47898912
+              },
+              {
+                "word": "like",
+                "start": 26.685,
+                "end": 26.925,
+                "confidence": 0.9983286
+              },
+              {
+                "word": "american",
+                "start": 26.925,
+                "end": 27.404999,
+                "confidence": 0.9687999
+              },
+              {
+                "word": "idle",
+                "start": 27.404999,
+                "end": 27.884998,
+                "confidence": 0.6076723
+              },
+              {
+                "word": "i",
+                "start": 27.884998,
+                "end": 28.045,
+                "confidence": 0.9736371
+              },
+              {
+                "word": "d",
+                "start": 28.045,
+                "end": 28.205,
+                "confidence": 0.8344619
+              },
+              {
+                "word": "o",
+                "start": 28.205,
+                "end": 28.365,
+                "confidence": 0.9999007
+              },
+              {
+                "word": "l",
+                "start": 28.365,
+                "end": 28.865,
+                "confidence": 0.99707747
+              },
+              {
+                "word": "yeah",
+                "start": 29.244999,
+                "end": 29.484999,
+                "confidence": 0.97480845
+              },
+              {
+                "word": "that",
+                "start": 29.484999,
+                "end": 29.805,
+                "confidence": 0.9996472
+              },
+              {
+                "word": "that",
+                "start": 29.805,
+                "end": 29.965,
+                "confidence": 0.9969381
+              },
+              {
+                "word": "happens",
+                "start": 29.965,
+                "end": 30.285,
+                "confidence": 0.9997444
+              },
+              {
+                "word": "a",
+                "start": 30.285,
+                "end": 30.445,
+                "confidence": 0.9997948
+              },
+              {
+                "word": "lot",
+                "start": 30.445,
+                "end": 30.605,
+                "confidence": 0.9948815
+              },
+              {
+                "word": "it's",
+                "start": 30.605,
+                "end": 30.845,
+                "confidence": 0.9890673
+              },
+              {
+                "word": "not",
+                "start": 30.845,
+                "end": 31.005,
+                "confidence": 0.99925953
+              },
+              {
+                "word": "really",
+                "start": 31.005,
+                "end": 31.164999,
+                "confidence": 0.9941485
+              },
+              {
+                "word": "a",
+                "start": 31.164999,
+                "end": 31.324999,
+                "confidence": 0.9990885
+              },
+              {
+                "word": "common",
+                "start": 31.324999,
+                "end": 31.564999,
+                "confidence": 0.999954
+              },
+              {
+                "word": "name",
+                "start": 31.564999,
+                "end": 32.065,
+                "confidence": 0.98310035
+              },
+              {
+                "word": "okay",
+                "start": 32.829998,
+                "end": 33.149998,
+                "confidence": 0.99247974
+              },
+              {
+                "word": "mister",
+                "start": 33.149998,
+                "end": 33.469997,
+                "confidence": 0.992954
+              },
+              {
+                "word": "eidle",
+                "start": 33.469997,
+                "end": 33.789997,
+                "confidence": 0.7364395
+              },
+              {
+                "word": "how",
+                "start": 33.789997,
+                "end": 33.949997,
+                "confidence": 0.9995445
+              },
+              {
+                "word": "can",
+                "start": 33.949997,
+                "end": 34.109997,
+                "confidence": 0.99986815
+              },
+              {
+                "word": "i",
+                "start": 34.109997,
+                "end": 34.269997,
+                "confidence": 0.9995838
+              },
+              {
+                "word": "help",
+                "start": 34.269997,
+                "end": 34.51,
+                "confidence": 0.99997675
+              },
+              {
+                "word": "you",
+                "start": 34.51,
+                "end": 34.59,
+                "confidence": 0.9999454
+              },
+              {
+                "word": "today",
+                "start": 34.59,
+                "end": 35.09,
+                "confidence": 0.995147
+              },
+              {
+                "word": "yeah",
+                "start": 35.87,
+                "end": 36.269997,
+                "confidence": 0.88314867
+              },
+              {
+                "word": "i",
+                "start": 36.269997,
+                "end": 36.589996,
+                "confidence": 0.99986976
+              },
+              {
+                "word": "need",
+                "start": 36.589996,
+                "end": 36.829998,
+                "confidence": 0.93508685
+              },
+              {
+                "word": "some",
+                "start": 36.829998,
+                "end": 37.23,
+                "confidence": 0.999949
+              },
+              {
+                "word": "information",
+                "start": 37.23,
+                "end": 37.73,
+                "confidence": 0.99989825
+              },
+              {
+                "word": "on",
+                "start": 37.949997,
+                "end": 38.269997,
+                "confidence": 0.99929696
+              },
+              {
+                "word": "upgrading",
+                "start": 38.269997,
+                "end": 38.75,
+                "confidence": 0.99989593
+              },
+              {
+                "word": "my",
+                "start": 38.75,
+                "end": 38.91,
+                "confidence": 0.99972385
+              },
+              {
+                "word": "service",
+                "start": 38.91,
+                "end": 39.149998,
+                "confidence": 0.9998692
+              },
+              {
+                "word": "plan",
+                "start": 39.149998,
+                "end": 39.649998,
+                "confidence": 0.9966699
+              },
+              {
+                "word": "sure",
+                "start": 40.575,
+                "end": 40.815,
+                "confidence": 0.8973121
+              },
+              {
+                "word": "i",
+                "start": 40.815,
+                "end": 40.975,
+                "confidence": 0.9994748
+              },
+              {
+                "word": "can",
+                "start": 40.975,
+                "end": 41.215,
+                "confidence": 0.9998415
+              },
+              {
+                "word": "absolutely",
+                "start": 41.215,
+                "end": 41.715,
+                "confidence": 0.999829
+              },
+              {
+                "word": "help",
+                "start": 41.855,
+                "end": 42.015,
+                "confidence": 0.99999535
+              },
+              {
+                "word": "you",
+                "start": 42.015,
+                "end": 42.175,
+                "confidence": 0.99971056
+              },
+              {
+                "word": "with",
+                "start": 42.175,
+                "end": 42.415,
+                "confidence": 0.99980974
+              },
+              {
+                "word": "that",
+                "start": 42.415,
+                "end": 42.575,
+                "confidence": 0.99995196
+              },
+              {
+                "word": "today",
+                "start": 42.575,
+                "end": 42.975,
+                "confidence": 0.9758075
+              },
+              {
+                "word": "can",
+                "start": 42.975,
+                "end": 43.215,
+                "confidence": 0.9998938
+              },
+              {
+                "word": "you",
+                "start": 43.215,
+                "end": 43.375,
+                "confidence": 0.99990636
+              },
+              {
+                "word": "tell",
+                "start": 43.375,
+                "end": 43.535,
+                "confidence": 0.9999303
+              },
+              {
+                "word": "me",
+                "start": 43.535,
+                "end": 43.695,
+                "confidence": 0.99965596
+              },
+              {
+                "word": "what",
+                "start": 43.695,
+                "end": 43.855,
+                "confidence": 0.99986404
+              },
+              {
+                "word": "plan",
+                "start": 43.855,
+                "end": 44.175,
+                "confidence": 0.9998046
+              },
+              {
+                "word": "you",
+                "start": 44.175,
+                "end": 44.335,
+                "confidence": 0.9956403
+              },
+              {
+                "word": "have",
+                "start": 44.335,
+                "end": 44.575,
+                "confidence": 0.99986064
+              },
+              {
+                "word": "currently",
+                "start": 44.575,
+                "end": 45.075,
+                "confidence": 0.9987454
+              },
+              {
+                "word": "i",
+                "start": 46.574997,
+                "end": 46.735,
+                "confidence": 0.99887204
+              },
+              {
+                "word": "think",
+                "start": 46.735,
+                "end": 47.055,
+                "confidence": 0.9989602
+              },
+              {
+                "word": "it's",
+                "start": 47.055,
+                "end": 47.295,
+                "confidence": 0.9980566
+              },
+              {
+                "word": "a",
+                "start": 47.295,
+                "end": 47.535,
+                "confidence": 0.53069276
+              },
+              {
+                "word": "silver",
+                "start": 47.535,
+                "end": 48.035,
+                "confidence": 0.9793876
+              },
+              {
+                "word": "and",
+                "start": 48.23,
+                "end": 48.71,
+                "confidence": 0.47914863
+              },
+              {
+                "word": "let",
+                "start": 48.71,
+                "end": 48.87,
+                "confidence": 0.9230515
+              },
+              {
+                "word": "me",
+                "start": 48.87,
+                "end": 49.19,
+                "confidence": 0.99991965
+              },
+              {
+                "word": "get",
+                "start": 49.19,
+                "end": 49.429996,
+                "confidence": 0.99985766
+              },
+              {
+                "word": "my",
+                "start": 49.429996,
+                "end": 49.589996,
+                "confidence": 0.9998741
+              },
+              {
+                "word": "glasses",
+                "start": 49.589996,
+                "end": 49.989998,
+                "confidence": 0.7644912
+              },
+              {
+                "word": "so",
+                "start": 49.989998,
+                "end": 50.229996,
+                "confidence": 0.95475787
+              },
+              {
+                "word": "i",
+                "start": 50.229996,
+                "end": 50.309998,
+                "confidence": 0.99741024
+              },
+              {
+                "word": "can",
+                "start": 50.309998,
+                "end": 50.55,
+                "confidence": 0.9990222
+              },
+              {
+                "word": "read",
+                "start": 50.55,
+                "end": 50.789997,
+                "confidence": 0.99970955
+              },
+              {
+                "word": "this",
+                "start": 50.789997,
+                "end": 51.289997,
+                "confidence": 0.9943643
+              },
+              {
+                "word": "yeah",
+                "start": 54.789997,
+                "end": 55.269997,
+                "confidence": 0.95646024
+              },
+              {
+                "word": "yeah",
+                "start": 55.269997,
+                "end": 55.429996,
+                "confidence": 0.9723867
+              },
+              {
+                "word": "it's",
+                "start": 55.429996,
+                "end": 55.67,
+                "confidence": 0.9996095
+              },
+              {
+                "word": "the",
+                "start": 55.67,
+                "end": 55.749996,
+                "confidence": 0.90401363
+              },
+              {
+                "word": "silver",
+                "start": 55.749996,
+                "end": 56.149998,
+                "confidence": 0.990326
+              },
+              {
+                "word": "plan",
+                "start": 56.149998,
+                "end": 56.649998,
+                "confidence": 0.9848497
+              },
+              {
+                "word": "okay",
+                "start": 58.274998,
+                "end": 58.774998,
+                "confidence": 0.88126487
+              },
+              {
+                "word": "alright",
+                "start": 60.114998,
+                "end": 60.514996,
+                "confidence": 0.73988914
+              },
+              {
+                "word": "silver",
+                "start": 60.514996,
+                "end": 60.914997,
+                "confidence": 0.99331146
+              },
+              {
+                "word": "plan",
+                "start": 60.914997,
+                "end": 61.414997,
+                "confidence": 0.9340669
+              },
+              {
+                "word": "and",
+                "start": 61.475,
+                "end": 61.795,
+                "confidence": 0.9998927
+              },
+              {
+                "word": "how",
+                "start": 61.795,
+                "end": 61.954998,
+                "confidence": 0.99876934
+              },
+              {
+                "word": "many",
+                "start": 61.954998,
+                "end": 62.194996,
+                "confidence": 0.99987406
+              },
+              {
+                "word": "people",
+                "start": 62.194996,
+                "end": 62.514996,
+                "confidence": 0.9999707
+              },
+              {
+                "word": "do",
+                "start": 62.514996,
+                "end": 62.674995,
+                "confidence": 0.9999306
+              },
+              {
+                "word": "you",
+                "start": 62.674995,
+                "end": 62.754997,
+                "confidence": 0.99978054
+              },
+              {
+                "word": "have",
+                "start": 62.754997,
+                "end": 62.994995,
+                "confidence": 0.9999645
+              },
+              {
+                "word": "on",
+                "start": 62.994995,
+                "end": 63.155,
+                "confidence": 0.99961644
+              },
+              {
+                "word": "your",
+                "start": 63.155,
+                "end": 63.314995,
+                "confidence": 0.9999145
+              },
+              {
+                "word": "plan",
+                "start": 63.314995,
+                "end": 63.634995,
+                "confidence": 0.99996054
+              },
+              {
+                "word": "right",
+                "start": 63.634995,
+                "end": 63.795,
+                "confidence": 0.9994408
+              },
+              {
+                "word": "now",
+                "start": 63.795,
+                "end": 64.295,
+                "confidence": 0.9994959
+              },
+              {
+                "word": "three",
+                "start": 65.07,
+                "end": 65.55,
+                "confidence": 0.88914466
+              },
+              {
+                "word": "i've",
+                "start": 65.55,
+                "end": 65.79,
+                "confidence": 0.99647534
+              },
+              {
+                "word": "got",
+                "start": 65.79,
+                "end": 65.95,
+                "confidence": 0.9975082
+              },
+              {
+                "word": "my",
+                "start": 65.95,
+                "end": 66.11,
+                "confidence": 0.9997645
+              },
+              {
+                "word": "brother",
+                "start": 66.11,
+                "end": 66.43,
+                "confidence": 0.8541422
+              },
+              {
+                "word": "billy",
+                "start": 66.43,
+                "end": 66.91,
+                "confidence": 0.96669
+              },
+              {
+                "word": "my",
+                "start": 66.91,
+                "end": 67.07,
+                "confidence": 0.9984679
+              },
+              {
+                "word": "mom",
+                "start": 67.07,
+                "end": 67.39,
+                "confidence": 0.9561199
+              },
+              {
+                "word": "cat",
+                "start": 67.39,
+                "end": 67.71,
+                "confidence": 0.9769329
+              },
+              {
+                "word": "and",
+                "start": 67.71,
+                "end": 67.95,
+                "confidence": 0.9996395
+              },
+              {
+                "word": "i",
+                "start": 67.95,
+                "end": 68.11,
+                "confidence": 0.67276317
+              },
+              {
+                "word": "guess",
+                "start": 68.11,
+                "end": 68.35,
+                "confidence": 0.99946886
+              },
+              {
+                "word": "i",
+                "start": 68.35,
+                "end": 68.43,
+                "confidence": 0.93766487
+              },
+              {
+                "word": "count",
+                "start": 68.43,
+                "end": 68.75,
+                "confidence": 0.9972235
+              },
+              {
+                "word": "two",
+                "start": 68.75,
+                "end": 68.99,
+                "confidence": 0.72177917
+              },
+              {
+                "word": "so",
+                "start": 68.99,
+                "end": 69.23,
+                "confidence": 0.8990928
+              },
+              {
+                "word": "yeah",
+                "start": 69.23,
+                "end": 69.55,
+                "confidence": 0.9848623
+              },
+              {
+                "word": "that's",
+                "start": 69.55,
+                "end": 69.79,
+                "confidence": 0.99971676
+              },
+              {
+                "word": "three",
+                "start": 69.79,
+                "end": 70.29,
+                "confidence": 0.9997759
+              },
+              {
+                "word": "great",
+                "start": 71.71,
+                "end": 72.135,
+                "confidence": 0.91518617
+              },
+              {
+                "word": "and",
+                "start": 72.215004,
+                "end": 72.375,
+                "confidence": 0.5749703
+              },
+              {
+                "word": "how",
+                "start": 72.375,
+                "end": 72.535,
+                "confidence": 0.9812527
+              },
+              {
+                "word": "can",
+                "start": 72.535,
+                "end": 72.775,
+                "confidence": 0.99975556
+              },
+              {
+                "word": "i",
+                "start": 72.775,
+                "end": 72.855,
+                "confidence": 0.9994005
+              },
+              {
+                "word": "help",
+                "start": 72.855,
+                "end": 73.095,
+                "confidence": 0.99999034
+              },
+              {
+                "word": "you",
+                "start": 73.095,
+                "end": 73.255005,
+                "confidence": 0.99979705
+              },
+              {
+                "word": "with",
+                "start": 73.255005,
+                "end": 73.415,
+                "confidence": 0.99972695
+              },
+              {
+                "word": "your",
+                "start": 73.415,
+                "end": 73.655,
+                "confidence": 0.99861395
+              },
+              {
+                "word": "plan",
+                "start": 73.655,
+                "end": 73.895004,
+                "confidence": 0.99982965
+              },
+              {
+                "word": "today",
+                "start": 73.895004,
+                "end": 74.215004,
+                "confidence": 0.99496466
+              },
+              {
+                "word": "sir",
+                "start": 74.215004,
+                "end": 74.715004,
+                "confidence": 0.9994473
+              },
+              {
+                "word": "oh",
+                "start": 74.855,
+                "end": 75.015,
+                "confidence": 0.9884491
+              },
+              {
+                "word": "you",
+                "start": 75.015,
+                "end": 75.175,
+                "confidence": 0.9991393
+              },
+              {
+                "word": "can",
+                "start": 75.175,
+                "end": 75.335,
+                "confidence": 0.9996691
+              },
+              {
+                "word": "call",
+                "start": 75.335,
+                "end": 75.575005,
+                "confidence": 0.9980577
+              },
+              {
+                "word": "me",
+                "start": 75.575005,
+                "end": 75.655,
+                "confidence": 0.9996675
+              },
+              {
+                "word": "tom",
+                "start": 75.655,
+                "end": 75.895004,
+                "confidence": 0.9389072
+              },
+              {
+                "word": "there's",
+                "start": 75.895004,
+                "end": 76.295,
+                "confidence": 0.9934242
+              },
+              {
+                "word": "no",
+                "start": 76.295,
+                "end": 76.455,
+                "confidence": 0.99651444
+              },
+              {
+                "word": "need",
+                "start": 76.455,
+                "end": 76.615005,
+                "confidence": 0.99976814
+              },
+              {
+                "word": "for",
+                "start": 76.615005,
+                "end": 76.775,
+                "confidence": 0.9998608
+              },
+              {
+                "word": "the",
+                "start": 76.775,
+                "end": 76.935005,
+                "confidence": 0.93261075
+              },
+              {
+                "word": "sir",
+                "start": 76.935005,
+                "end": 77.435005,
+                "confidence": 0.92302144
+              },
+              {
+                "word": "i'm",
+                "start": 78.055,
+                "end": 78.215004,
+                "confidence": 0.9981098
+              },
+              {
+                "word": "sorry",
+                "start": 78.215004,
+                "end": 78.535,
+                "confidence": 0.96969306
+              },
+              {
+                "word": "tom",
+                "start": 78.535,
+                "end": 78.775,
+                "confidence": 0.7833201
+              },
+              {
+                "word": "it's",
+                "start": 78.775,
+                "end": 79.015,
+                "confidence": 0.9830764
+              },
+              {
+                "word": "just",
+                "start": 79.015,
+                "end": 79.175,
+                "confidence": 0.9992861
+              },
+              {
+                "word": "an",
+                "start": 79.175,
+                "end": 79.415,
+                "confidence": 0.9976127
+              },
+              {
+                "word": "old",
+                "start": 79.415,
+                "end": 79.575005,
+                "confidence": 0.9998951
+              },
+              {
+                "word": "habit",
+                "start": 79.575005,
+                "end": 80.075005,
+                "confidence": 0.98421574
+              },
+              {
+                "word": "how",
+                "start": 80.215004,
+                "end": 80.375,
+                "confidence": 0.9988845
+              },
+              {
+                "word": "can",
+                "start": 80.375,
+                "end": 80.535,
+                "confidence": 0.9998762
+              },
+              {
+                "word": "i",
+                "start": 80.535,
+                "end": 80.615005,
+                "confidence": 0.9993266
+              },
+              {
+                "word": "help",
+                "start": 80.615005,
+                "end": 80.855,
+                "confidence": 0.9999893
+              },
+              {
+                "word": "you",
+                "start": 80.855,
+                "end": 81.015,
+                "confidence": 0.9997718
+              },
+              {
+                "word": "with",
+                "start": 81.015,
+                "end": 81.175,
+                "confidence": 0.99980396
+              },
+              {
+                "word": "your",
+                "start": 81.175,
+                "end": 81.335,
+                "confidence": 0.9994001
+              },
+              {
+                "word": "plan",
+                "start": 81.335,
+                "end": 81.835,
+                "confidence": 0.9993545
+              },
+              {
+                "word": "well",
+                "start": 82.520004,
+                "end": 83.020004,
+                "confidence": 0.98760235
+              },
+              {
+                "word": "on",
+                "start": 83.08,
+                "end": 83.240005,
+                "confidence": 0.99849844
+              },
+              {
+                "word": "my",
+                "start": 83.240005,
+                "end": 83.4,
+                "confidence": 0.999908
+              },
+              {
+                "word": "plan",
+                "start": 83.4,
+                "end": 83.72,
+                "confidence": 0.99871624
+              },
+              {
+                "word": "right",
+                "start": 83.72,
+                "end": 83.880005,
+                "confidence": 0.9990494
+              },
+              {
+                "word": "now",
+                "start": 83.880005,
+                "end": 84.380005,
+                "confidence": 0.9446866
+              },
+              {
+                "word": "i",
+                "start": 84.44,
+                "end": 84.600006,
+                "confidence": 0.9997504
+              },
+              {
+                "word": "can",
+                "start": 84.600006,
+                "end": 84.840004,
+                "confidence": 0.999456
+              },
+              {
+                "word": "only",
+                "start": 84.840004,
+                "end": 85.08,
+                "confidence": 0.9998528
+              },
+              {
+                "word": "have",
+                "start": 85.08,
+                "end": 85.32,
+                "confidence": 0.9998894
+              },
+              {
+                "word": "three",
+                "start": 85.32,
+                "end": 85.48,
+                "confidence": 0.9999058
+              },
+              {
+                "word": "people",
+                "start": 85.48,
+                "end": 85.8,
+                "confidence": 0.9999883
+              },
+              {
+                "word": "on",
+                "start": 85.8,
+                "end": 85.96,
+                "confidence": 0.99993867
+              },
+              {
+                "word": "it",
+                "start": 85.96,
+                "end": 86.200005,
+                "confidence": 0.8050985
+              },
+              {
+                "word": "and",
+                "start": 86.200005,
+                "end": 86.44,
+                "confidence": 0.999332
+              },
+              {
+                "word": "i'm",
+                "start": 86.44,
+                "end": 86.600006,
+                "confidence": 0.9989702
+              },
+              {
+                "word": "wanting",
+                "start": 86.600006,
+                "end": 86.840004,
+                "confidence": 0.9983186
+              },
+              {
+                "word": "to",
+                "start": 86.840004,
+                "end": 87.0,
+                "confidence": 0.9930226
+              },
+              {
+                "word": "add",
+                "start": 87.0,
+                "end": 87.240005,
+                "confidence": 0.99960655
+              },
+              {
+                "word": "more",
+                "start": 87.240005,
+                "end": 87.740005,
+                "confidence": 0.7964014
+              },
+              {
+                "word": "so",
+                "start": 87.880005,
+                "end": 88.200005,
+                "confidence": 0.99966013
+              },
+              {
+                "word": "i'm",
+                "start": 88.200005,
+                "end": 88.36,
+                "confidence": 0.93212295
+              },
+              {
+                "word": "wondering",
+                "start": 88.36,
+                "end": 88.68,
+                "confidence": 0.9948618
+              },
+              {
+                "word": "if",
+                "start": 88.68,
+                "end": 88.840004,
+                "confidence": 0.9997828
+              },
+              {
+                "word": "i",
+                "start": 88.840004,
+                "end": 88.920006,
+                "confidence": 0.99903893
+              },
+              {
+                "word": "can",
+                "start": 88.920006,
+                "end": 89.08,
+                "confidence": 0.9985899
+              },
+              {
+                "word": "switch",
+                "start": 89.08,
+                "end": 89.32,
+                "confidence": 0.99971193
+              },
+              {
+                "word": "my",
+                "start": 89.32,
+                "end": 89.48,
+                "confidence": 0.9997149
+              },
+              {
+                "word": "plan",
+                "start": 89.48,
+                "end": 89.72,
+                "confidence": 0.99997616
+              },
+              {
+                "word": "up",
+                "start": 89.72,
+                "end": 89.880005,
+                "confidence": 0.9995806
+              },
+              {
+                "word": "or",
+                "start": 89.880005,
+                "end": 89.96,
+                "confidence": 0.9940259
+              },
+              {
+                "word": "upgrade",
+                "start": 89.96,
+                "end": 90.36,
+                "confidence": 0.99992734
+              },
+              {
+                "word": "it",
+                "start": 90.36,
+                "end": 90.520004,
+                "confidence": 0.9994991
+              },
+              {
+                "word": "somehow",
+                "start": 90.520004,
+                "end": 91.020004,
+                "confidence": 0.821982
+              },
+              {
+                "word": "how",
+                "start": 92.135,
+                "end": 92.295006,
+                "confidence": 0.98950994
+              },
+              {
+                "word": "many",
+                "start": 92.295006,
+                "end": 92.535,
+                "confidence": 0.999723
+              },
+              {
+                "word": "more",
+                "start": 92.535,
+                "end": 92.695,
+                "confidence": 0.9999432
+              },
+              {
+                "word": "people",
+                "start": 92.695,
+                "end": 92.935005,
+                "confidence": 0.9999269
+              },
+              {
+                "word": "are",
+                "start": 92.935005,
+                "end": 93.095,
+                "confidence": 0.9994403
+              },
+              {
+                "word": "you",
+                "start": 93.095,
+                "end": 93.255005,
+                "confidence": 0.9995327
+              },
+              {
+                "word": "wanting",
+                "start": 93.255005,
+                "end": 93.495,
+                "confidence": 0.9997463
+              },
+              {
+                "word": "to",
+                "start": 93.495,
+                "end": 93.65501,
+                "confidence": 0.9994592
+              },
+              {
+                "word": "add",
+                "start": 93.65501,
+                "end": 93.895004,
+                "confidence": 0.9999868
+              },
+              {
+                "word": "to",
+                "start": 93.895004,
+                "end": 94.055,
+                "confidence": 0.99895465
+              },
+              {
+                "word": "your",
+                "start": 94.055,
+                "end": 94.375,
+                "confidence": 0.9998671
+              },
+              {
+                "word": "plan",
+                "start": 94.375,
+                "end": 94.875,
+                "confidence": 0.9997021
+              },
+              {
+                "word": "well",
+                "start": 95.255005,
+                "end": 95.495,
+                "confidence": 0.9538487
+              },
+              {
+                "word": "here's",
+                "start": 95.495,
+                "end": 95.815,
+                "confidence": 0.9991715
+              },
+              {
+                "word": "the",
+                "start": 95.815,
+                "end": 95.895004,
+                "confidence": 0.9978373
+              },
+              {
+                "word": "thing",
+                "start": 95.895004,
+                "end": 96.395004,
+                "confidence": 0.9799331
+              },
+              {
+                "word": "i",
+                "start": 96.775,
+                "end": 96.935005,
+                "confidence": 0.9997303
+              },
+              {
+                "word": "need",
+                "start": 96.935005,
+                "end": 97.095,
+                "confidence": 0.99949497
+              },
+              {
+                "word": "to",
+                "start": 97.095,
+                "end": 97.255005,
+                "confidence": 0.99849856
+              },
+              {
+                "word": "add",
+                "start": 97.255005,
+                "end": 97.575005,
+                "confidence": 0.999954
+              },
+              {
+                "word": "three",
+                "start": 97.575005,
+                "end": 97.975006,
+                "confidence": 0.9995446
+              },
+              {
+                "word": "more",
+                "start": 97.975006,
+                "end": 98.295006,
+                "confidence": 0.9999498
+              },
+              {
+                "word": "people",
+                "start": 98.295006,
+                "end": 98.795006,
+                "confidence": 0.821918
+              },
+              {
+                "word": "so",
+                "start": 99.05,
+                "end": 99.21,
+                "confidence": 0.9889274
+              },
+              {
+                "word": "far",
+                "start": 99.21,
+                "end": 99.71,
+                "confidence": 0.9458786
+              },
+              {
+                "word": "i",
+                "start": 100.49,
+                "end": 100.57,
+                "confidence": 0.9986172
+              },
+              {
+                "word": "wanted",
+                "start": 100.57,
+                "end": 100.89,
+                "confidence": 0.9919167
+              },
+              {
+                "word": "to",
+                "start": 100.89,
+                "end": 101.05,
+                "confidence": 0.99820036
+              },
+              {
+                "word": "add",
+                "start": 101.05,
+                "end": 101.21,
+                "confidence": 0.9999475
+              },
+              {
+                "word": "my",
+                "start": 101.21,
+                "end": 101.450005,
+                "confidence": 0.99509555
+              },
+              {
+                "word": "friend",
+                "start": 101.450005,
+                "end": 101.69,
+                "confidence": 0.9997401
+              },
+              {
+                "word": "margaret",
+                "start": 101.69,
+                "end": 102.19,
+                "confidence": 0.8971907
+              },
+              {
+                "word": "my",
+                "start": 102.73,
+                "end": 102.97,
+                "confidence": 0.9989161
+              },
+              {
+                "word": "daughter",
+                "start": 102.97,
+                "end": 103.450005,
+                "confidence": 0.9959511
+              },
+              {
+                "word": "anna",
+                "start": 103.450005,
+                "end": 103.93,
+                "confidence": 0.91290164
+              },
+              {
+                "word": "and",
+                "start": 103.93,
+                "end": 104.17,
+                "confidence": 0.99994427
+              },
+              {
+                "word": "my",
+                "start": 104.17,
+                "end": 104.33,
+                "confidence": 0.99976236
+              },
+              {
+                "word": "son",
+                "start": 104.33,
+                "end": 104.65,
+                "confidence": 0.9998533
+              },
+              {
+                "word": "todd",
+                "start": 104.65,
+                "end": 105.15,
+                "confidence": 0.7755078
+              },
+              {
+                "word": "alright",
+                "start": 106.365,
+                "end": 106.865,
+                "confidence": 0.87597895
+              },
+              {
+                "word": "we",
+                "start": 107.405,
+                "end": 107.645,
+                "confidence": 0.9993754
+              },
+              {
+                "word": "do",
+                "start": 107.645,
+                "end": 107.805,
+                "confidence": 0.99982154
+              },
+              {
+                "word": "have",
+                "start": 107.805,
+                "end": 108.045,
+                "confidence": 0.9999403
+              },
+              {
+                "word": "a",
+                "start": 108.045,
+                "end": 108.205,
+                "confidence": 0.9991271
+              },
+              {
+                "word": "few",
+                "start": 108.205,
+                "end": 108.445,
+                "confidence": 0.999965
+              },
+              {
+                "word": "options",
+                "start": 108.445,
+                "end": 108.945,
+                "confidence": 0.9999621
+              },
+              {
+                "word": "that",
+                "start": 109.005,
+                "end": 109.244995,
+                "confidence": 0.99997634
+              },
+              {
+                "word": "support",
+                "start": 109.244995,
+                "end": 109.725,
+                "confidence": 0.9523229
+              },
+              {
+                "word": "six",
+                "start": 109.725,
+                "end": 110.045,
+                "confidence": 0.99948967
+              },
+              {
+                "word": "users",
+                "start": 110.045,
+                "end": 110.545,
+                "confidence": 0.9334909
+              },
+              {
+                "word": "one",
+                "start": 111.165,
+                "end": 111.405,
+                "confidence": 0.9998794
+              },
+              {
+                "word": "is",
+                "start": 111.405,
+                "end": 111.645,
+                "confidence": 0.9999479
+              },
+              {
+                "word": "our",
+                "start": 111.645,
+                "end": 111.884995,
+                "confidence": 0.9997232
+              },
+              {
+                "word": "gold",
+                "start": 111.884995,
+                "end": 112.384995,
+                "confidence": 0.7988306
+              },
+              {
+                "word": "the",
+                "start": 112.604996,
+                "end": 112.845,
+                "confidence": 0.99866515
+              },
+              {
+                "word": "other",
+                "start": 112.845,
+                "end": 113.085,
+                "confidence": 0.9996693
+              },
+              {
+                "word": "is",
+                "start": 113.085,
+                "end": 113.244995,
+                "confidence": 0.99987435
+              },
+              {
+                "word": "our",
+                "start": 113.244995,
+                "end": 113.485,
+                "confidence": 0.99974394
+              },
+              {
+                "word": "platinum",
+                "start": 113.485,
+                "end": 113.985,
+                "confidence": 0.995803
+              },
+              {
+                "word": "plan",
+                "start": 114.125,
+                "end": 114.625,
+                "confidence": 0.9985179
+              },
+              {
+                "word": "okay",
+                "start": 116.17,
+                "end": 116.649994,
+                "confidence": 0.8133609
+              },
+              {
+                "word": "so",
+                "start": 116.649994,
+                "end": 116.96999,
+                "confidence": 0.9997241
+              },
+              {
+                "word": "how",
+                "start": 116.96999,
+                "end": 117.13,
+                "confidence": 0.98023885
+              },
+              {
+                "word": "much",
+                "start": 117.13,
+                "end": 117.369995,
+                "confidence": 0.999965
+              },
+              {
+                "word": "are",
+                "start": 117.369995,
+                "end": 117.53,
+                "confidence": 0.99923086
+              },
+              {
+                "word": "those",
+                "start": 117.53,
+                "end": 117.77,
+                "confidence": 0.9948342
+              },
+              {
+                "word": "gonna",
+                "start": 117.77,
+                "end": 118.009995,
+                "confidence": 0.6917464
+              },
+              {
+                "word": "cost",
+                "start": 118.009995,
+                "end": 118.329994,
+                "confidence": 0.99978024
+              },
+              {
+                "word": "me",
+                "start": 118.329994,
+                "end": 118.829994,
+                "confidence": 0.99982744
+              },
+              {
+                "word": "well",
+                "start": 119.20999,
+                "end": 119.369995,
+                "confidence": 0.9795636
+              },
+              {
+                "word": "the",
+                "start": 119.369995,
+                "end": 119.53,
+                "confidence": 0.9995106
+              },
+              {
+                "word": "gold",
+                "start": 119.53,
+                "end": 119.85,
+                "confidence": 0.9994025
+              },
+              {
+                "word": "plan",
+                "start": 119.85,
+                "end": 120.329994,
+                "confidence": 0.9997776
+              },
+              {
+                "word": "is",
+                "start": 120.329994,
+                "end": 120.81699,
+                "confidence": 0.9998155
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
